@@ -1,0 +1,24 @@
+body {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+input {
+  border: 1px solid #5f9341;
+  box-sizing: inherit;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+}
+
+button {
+  background-color: #5f9341;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px 20px;
+  width: 150px;
+}
